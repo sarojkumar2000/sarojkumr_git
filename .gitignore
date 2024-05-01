@@ -4,10 +4,11 @@
 # Log file
 *.log
 
-# BlueJ f
+# BlueJ files
 *.ctxt
 
-.mtj.tmp
+.mtj.tmp/
+
 *.jar
 *.war
 *.nar
