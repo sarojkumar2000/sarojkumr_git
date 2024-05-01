@@ -4,15 +4,16 @@
 # Log file
 *.log
 
-# BlueJ 
-*.ctx
+# BlueJ files
+*.ctxt
 
-.mtj.tmp
+.mtj.tmp/
+
 *.jar
 *.war
 *.nar
 *.ear
-*.zi
+*.zip
 *.tar.gz
 *.rar
 
