@@ -13,8 +13,9 @@
 *.war
 *.nar
 *.ear
-*.zip
+*.zi
 *.tar.gz
+
 *.rar
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
