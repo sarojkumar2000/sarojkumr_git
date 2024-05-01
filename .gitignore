@@ -7,7 +7,7 @@
 # BlueJ f
 *.ctxt
 
-.mtj.tmp/
+.mtj.tmp
 
 *.jar
 *.war
