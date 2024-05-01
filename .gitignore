@@ -12,7 +12,7 @@
 
 *.jar
 *.war
-*.nar
+*.narss
 *.ear
 *.zip
 *.tar.gz
